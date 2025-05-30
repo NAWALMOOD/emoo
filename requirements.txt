@@ -1,0 +1,7 @@
+mediapipe==0.10.21
+opencv-python>=4.5.4
+tensorflow>=2.7.0
+streamlit>=1.20.0
+streamlit-webrtc>=0.44.0
+huggingface-hub>=0.15.1
+numpy>=1.21.0
